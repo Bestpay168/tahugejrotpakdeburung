@@ -3,12 +3,135 @@
 
 <head>
 
-<meta charset="UTF-8">
+    <!-- ==========================================
+         META
+    =========================================== -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TAHU GEJROT PAKDE BURUNG | Pedas • Segar • Bikin Nagih</title>
 
-<title>TAHU GEJROT PAKDE BURUNG</title>
+    <meta name="description" content="Tahu Gejrot Pakde Burung dengan cita rasa khas, pedas, segar, dan bikin nagih.">
 
-<link rel="stylesheet" href="css/style.css">
+    <meta name="keywords" content="Tahu Gejrot, Tahu Gejrot Pakde Burung, Kuliner Jakarta Barat">
+
+    <meta name="author" content="TAHU GEJROT PAKDE BURUNG">
+
+    <!-- Favicon -->
+    <link rel="icon" href="favicon.ico">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="css/animation.css">
 
 </head>
+
+<body>
+
+    <!-- ==========================================
+         LOADER
+    =========================================== -->
+    <div class="loader"></div>
+
+    <!-- ==========================================
+         HEADER
+    =========================================== -->
+    <header id="header" class="header">
+
+    </header>
+
+    <!-- ==========================================
+         HERO
+    =========================================== -->
+    <section id="hero" class="hero">
+
+    </section>
+
+    <!-- ==========================================
+         ABOUT
+    =========================================== -->
+    <section id="about" class="about">
+
+    </section>
+
+    <!-- ==========================================
+         MENU
+    =========================================== -->
+    <section id="menu" class="menu">
+
+    </section>
+
+    <!-- ==========================================
+         GALLERY
+    =========================================== -->
+    <section id="gallery" class="gallery">
+
+    </section>
+
+    <!-- ==========================================
+         TESTIMONIAL
+    =========================================== -->
+    <section id="testimonial" class="testimonial">
+
+    </section>
+
+    <!-- ==========================================
+         FAQ
+    =========================================== -->
+    <section id="faq" class="faq">
+
+    </section>
+
+    <!-- ==========================================
+         MAPS
+    =========================================== -->
+    <section id="maps" class="maps">
+
+    </section>
+
+    <!-- ==========================================
+         CONTACT
+    =========================================== -->
+    <section id="contact" class="contact">
+
+    </section>
+
+    <!-- ==========================================
+         ORDER
+    =========================================== -->
+    <section id="order" class="order">
+
+    </section>
+
+    <!-- ==========================================
+         FOOTER
+    =========================================== -->
+    <footer class="footer">
+
+    </footer>
+
+    <!-- ==========================================
+         BACK TO TOP
+    =========================================== -->
+    <button id="backToTop" class="back-to-top">
+
+    </button>
+
+    <!-- ==========================================
+         WHATSAPP FLOATING BUTTON
+    =========================================== -->
+    <a href="#" class="whatsapp-float">
+
+    </a>
+
+    <!-- ==========================================
+         JAVASCRIPT
+    =========================================== -->
+    <script src="js/navbar.js"></script>
+    <script src="js/slider.js"></script>
+    <script src="js/script.js"></script>
+
+</body>
+
+</html> 
