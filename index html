@@ -14,26 +14,37 @@
 
     <meta name="author" content="TAHU GEJROT PAKDE BURUNG">
 
-    <!-- Favicon -->
+   
     <link rel="icon" href="favicon.ico">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
 
-    <!-- CSS -->
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/animation.css">
+
 
 </head>
 
 <body>
 
-    <!-- ==========================================
-         LOADER
-    =========================================== -->
-    <div class="loader"></div>
+<div id="loader" class="loader">
 
-    <!-- ==========================================
-         HEADER
-    =========================================== -->
+    <div class="loader-content">
+
+        <div class="spinner"></div>
+
+        <h2>TAHU GEJROT PAKDE BURUNG</h2>
+
+        <p>Sedang memuat...</p>
+
+    </div>
+
+</div>
+
+</body>
+    
+
 <header class="header">
 
 <div class="logo">
