@@ -475,23 +475,152 @@ GALERI
 
 </section>
 
-   <!-- ==========================================
-         MAPS
-    =========================================== -->
-    <section id="maps" class="maps">
+   <section id="maps" class="maps">
 
-    </section>
+    <div class="container">
 
-    <!-- ==========================================
-         CONTACT
-    =========================================== -->
-    <section id="contact" class="contact">
+        <div class="section-title">
 
-    </section>
+            <span>Lokasi</span>
 
-    <!-- ==========================================
-         ORDER
-    =========================================== -->
+            <h2>Kunjungi Kami</h2>
+
+            <p>
+                Datang langsung ke lokasi Tahu Gejrot Pakde Burung
+                atau gunakan Google Maps untuk mendapatkan
+                petunjuk arah.
+            </p>
+
+        </div>
+
+        <div class="maps-wrapper">
+
+            <!-- Google Maps -->
+            <div class="maps-frame">
+
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=..."
+                    title="Lokasi Tahu Gejrot Pakde Burung"
+                    loading="lazy"
+                    allowfullscreen
+                    referrerpolicy="no-referrer-when-downgrade">
+                </iframe>
+
+            </div>
+
+            <!-- Informasi Lokasi -->
+            <aside class="maps-info">
+
+                <h3>Tahu Gejrot Pakde Burung</h3>
+
+                <p>
+                    Semanan, Kalideres,<br>
+                    Jakarta Barat, DKI Jakarta
+                </p>
+
+                <p>
+                    <strong>Jam Operasional</strong><br>
+                    Senin – Minggu<br>
+                    10.00 – 21.00 WIB
+                </p>
+
+                <a
+                    href="https://maps.app.goo.gl/xxxxxxxx"
+                    class="btn btn-primary"
+                    target="_blank"
+                    rel="noopener noreferrer">
+
+                    Buka di Google Maps
+
+                </a>
+
+            </aside>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+
+<section id="contact" class="contact">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <span>Kontak</span>
+
+            <h2>Hubungi Kami</h2>
+
+            <p>
+                Ada pertanyaan atau ingin bekerja sama?
+                Jangan ragu untuk menghubungi kami.
+            </p>
+
+        </div>
+
+        <div class="contact-wrapper">
+
+            <article class="contact-card">
+
+                <h3>📍 Alamat</h3>
+
+                <p>
+                    Semanan, Kalideres,<br>
+                    Jakarta Barat, DKI Jakarta
+                </p>
+
+            </article>
+
+            <article class="contact-card">
+
+                <h3>📞 WhatsApp</h3>
+
+                <p>
+                    <a href="https://wa.me/6289614001997"
+                       target="_blank"
+                       rel="noopener noreferrer">
+                        +62 896-1400-1997
+                    </a>
+                </p>
+
+            </article>
+
+            <article class="contact-card">
+
+                <h3>📧 Email</h3>
+
+                <p>
+                    <a href="mailto:info@pakdeburung.com">
+                        info@pakdeburung.com
+                    </a>
+                </p>
+
+            </article>
+
+            <article class="contact-card">
+
+                <h3>🕒 Jam Operasional</h3>
+
+                <p>
+                    Senin – Minggu<br>
+                    10.00 – 21.00 WIB
+                </p>
+
+            </article>
+
+        </div>
+
+    </div>
+
+</section>
+ 
+
+
+
 <section class="order" id="order">
 
     <div class="container">
