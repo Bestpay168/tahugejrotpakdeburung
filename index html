@@ -90,13 +90,51 @@ Lihat Menu
 </div>
 
 </section>
-    <!-- ==========================================
-         ABOUT
-    =========================================== -->
-    <section id="about" class="about">
+    
 
-    </section>
 
+<section class="about" id="about">
+
+<div class="container">
+<div class="about">
+
+<div class="left">
+
+<img src="about.png"> 
+
+</div>
+
+<div class="right">
+
+<h2>
+
+Tentang Kami
+
+</h2>
+
+<p>
+
+TAHU GEJROT PAKDE BURUNG menghadirkan cita rasa khas Cirebon dengan kuah segar, pedas, manis, dan gurih. Menggunakan bahan berkualitas dan diracik setiap hari agar menghasilkan rasa yang konsisten.
+
+</p>
+
+<ul>
+
+<li>✔ Higienis</li>
+
+<li>✔ Bumbu Khas</li>
+
+<li>✔ Harga Bersahabat</li>
+
+<li>✔ Pelayanan Cepat</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</section>
 
 
 
