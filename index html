@@ -250,12 +250,38 @@ Pesan
 </div>
 
 </section>
-    <!-- ==========================================
-         GALLERY
-    =========================================== -->
-    <section id="gallery" class="gallery">
+    
 
-    </section>
+
+ <section class="gallery" id="gallery">
+
+<div class="container">
+
+<h2>
+
+GALERI
+
+</h2>
+
+<div class="gallery-grid">
+
+<img src="gallery1.jpg">
+
+<img src="gallery2.jpg">
+
+<img src="gallery3.jpg">
+
+<img src="gallery4.jpg">
+
+<img src="gallery5.jpg">
+
+<img src="gallery6.jpg">
+
+</div>
+
+</div>
+
+</section>>
 
     <!-- ==========================================
          TESTIMONIAL
