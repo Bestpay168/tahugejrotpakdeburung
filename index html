@@ -917,33 +917,30 @@ GALERI
     </div>
 
 </section>
-    <!-- ==========================================
-         FOOTER
-    =========================================== -->
-    <footer class="footer">
+    
+<div>
+<div class="copyright">
 
-    </footer>
+© 2026 TAHU GEJROT PAKDE BURUNG
 
-    <!-- ==========================================
-         BACK TO TOP
-    =========================================== -->
-    <button id="backToTop" class="back-to-top">
+</div>
 
-    </button>
+</footer>
 
-    <!-- ==========================================
-         WHATSAPP FLOATING BUTTON
-    =========================================== -->
-    <a href="#" class="whatsapp-float">
 
-    </a>
+<a href="https://wa.me/6285774537978?text=Halo%20Pakde%20Burung,%20saya%20ingin%20memesan%20Tahu%20Gejrot"
+   class="wa"
+   target="_blank"
+   rel="noopener">
 
-    <!-- ==========================================
-         JAVASCRIPT
-    =========================================== -->
-    <script src="js/navbar.js"></script>
-    <script src="js/slider.js"></script>
-    <script src="js/script.js"></script>
+    <img src="icons/whatsapp.svg" alt="WhatsApp">
+
+</a>    
+
+<script src="js/navbar.js"></script>
+<script src="js/slider.js"></script>
+<script src="js/order.js"></script>
+<script src="js/script.js"></script>
 
 </body>
 
