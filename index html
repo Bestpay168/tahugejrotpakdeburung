@@ -97,13 +97,121 @@ Lihat Menu
 
     </section>
 
-    <!-- ==========================================
-         MENU
-    =========================================== -->
-    <section id="menu" class="menu">
 
-    </section>
 
+
+<section class="menu" id="menu">
+
+<div class="container">
+
+<h2>
+
+MENU FAVORIT
+
+</h2>
+
+<p>
+
+Pilihan menu terbaik untuk Anda
+
+</p>
+
+<div class="card-area">
+
+<div class="card">
+
+<img src="menu1.png"> 
+
+<h3>
+
+Tahu Gejrot Original
+
+</h3>
+
+<span>
+
+Rp10.000
+
+</span>
+
+<a href="https://wa.me/6285774537978?text=Halo%20Pakde%20Burung,%20saya%20ingin%20memesan%20Tahu%20Gejrot">
+Pesan
+</a>
+
+</div>
+
+<div class="card">
+
+<img src="menu2.png"> 
+
+<h3>
+
+Extra Pedas
+
+</h3>
+
+<span>
+
+Rp15.000
+
+</span>
+
+<a href="https://wa.me/6285774537978?text=Halo%20Pakde%20Burung,%20saya%20ingin%20memesan%20Tahu%20Gejrot">
+Pesan
+</a>
+
+</div>
+
+<div class="card">
+
+<img src="menu3.png"> 
+
+
+<h3>
+
+Jumbo
+
+</h3>
+
+<span>
+
+Rp20.000
+
+</span>
+
+<a href="https://wa.me/6285774537978?text=Halo%20Pakde%20Burung,%20saya%20ingin%20memesan%20Tahu%20Gejrot">
+Pesan
+</a>
+
+</div>
+
+<div class="card">
+
+<img src="menu4.png"> 
+
+<h3>
+
+Komplit
+
+</h3>
+
+<span>
+
+Rp25.000
+
+</span>
+
+<a href="https://wa.me/6285774537978?text=Halo%20Pakde%20Burung,%20saya%20ingin%20memesan%20Tahu%20Gejrot">
+Pesan
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
     <!-- ==========================================
          GALLERY
     =========================================== -->
