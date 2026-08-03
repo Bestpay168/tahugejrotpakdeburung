@@ -28,25 +28,7 @@
 
 <body>
 
-<div id="loader" class="loader">
-
-    <div class="loader-content">
-
-        <div class="spinner"></div>
-
-        <h2>TAHU GEJROT PAKDE BURUNG</h2>
-
-        <p>Sedang memuat...</p>
-
-    </div>
-
-</div>
-
-</body>
-    
-
 <header class="header">
-
 <div class="logo">
 <img src="logo.png" alt="Logo">
 <h2>TAHU GEJROT <span>PAKDE BURUNG</span></h2>
@@ -67,10 +49,47 @@
 
 </header>
 
-    <!-- ==========================================
-         HERO
-    =========================================== -->
-    <section id="hero" class="hero">
+
+<section class="hero">
+
+<div class="overlay"></div>
+
+<div class="hero-content">
+
+<h1>
+
+TAHU GEJROT<br>
+
+PAKDE BURUNG
+
+</h1>
+
+<p>
+
+Pedas • Segar • Bikin Nagih
+
+</p>
+
+<div class="hero-button">
+
+<a href="#menu" class="btn1">
+
+Lihat Menu
+
+</a>
+
+<a href="https://wa.me/6285774537978?text=Halo%20Pakde%20Burung,%20saya%20ingin%20memesan%20Tahu%20Gejrot"
+   class="btn2"
+   target="_blank"
+   rel="noopener">
+   Pesan WhatsApp
+</a>
+
+</div>
+
+</div>
+
+</section>
     <!-- ==========================================
          ABOUT
     =========================================== -->
