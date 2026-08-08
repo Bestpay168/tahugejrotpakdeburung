@@ -16,11 +16,13 @@ if (payment) {
         const plus = item.querySelector(".plus");
         const minus = item.querySelector(".minus");
         const qty = item.querySelector(".qty");
+}
 
         plus.addEventListener("click", function () {
             qty.value = parseInt(qty.value) + 1;
-            updateCart();
-        });
+}
+            updateCart();{
+    });
 
         minus.addEventListener("click", function () {
 
@@ -33,7 +35,7 @@ if (payment) {
 
         });
 
-    });
+ 
 
     // Delivery / Pickup
     document.getElementById("deliveryMethod")
